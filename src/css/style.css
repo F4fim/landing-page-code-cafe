@@ -41,8 +41,6 @@ body {
     font-weight: bold;
 }
 
-/* ------------MENU NAVEGAÇÃO --------- */
-
 /* ------------MAIN SECTION 1 --------- */
 
 .painel {
@@ -59,8 +57,6 @@ body {
     top: 50%;
     transform: translateY(-50%);
 }
-
-/* ------------MAIN SECTION 1 --------- */
 
 /* --------- MAIN SECTION 2 e 4 ------- */
 
@@ -93,8 +89,6 @@ body {
     width: 484px;
 }
 
-/* ------------MAIN SECTION 2 e 4 --------- */
-
 /* ------------MAIN SECTION 3 LADRILHO --------- */
 
 .ladrilho div {
@@ -125,8 +119,6 @@ body {
     width: 50%;
 }
 
-/* ------------MAIN SECTION 3 LADRILHO --------- */
-
 /* ------------MAIN SECTION 5 CONTATO --------- */
 
 .contato {
@@ -152,8 +144,6 @@ body {
     top: 30%;
     left: 50%;
 }
-
-/* ------------MAIN SECTION 5 CONTATO --------- */
 
 /* ------------ FOOTER --------- */
 
